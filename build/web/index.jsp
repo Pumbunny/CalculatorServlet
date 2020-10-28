@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : Oct 28, 2020, 3:12:03 PM
-    Author     : Ayna
+    Author     : Manlika
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
