@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Ayna
+ * @author Manlika
  */
 public class calculaterServlet extends HttpServlet {
 
